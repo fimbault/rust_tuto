@@ -1,4 +1,4 @@
 # rust_tuto
 A serie of tutorials on rust, for teaching purposes
 
-- basic_syntax
+- basic_syntax : implement 4 functions to protect you from covid (wear_mask, keep_distance, wash_hands, get_tested)
