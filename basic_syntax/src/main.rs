@@ -148,7 +148,7 @@ impl TakeAction for LocalInfrastructure {
 
 /// main function = staying alive
 fn main() {
-    println!("Trying to alive during a pandemic!");
+    println!("Trying to stay alive during a pandemic!");
 
     // initialize current count (mutable)
     let mut wash_count:usize = 0;
