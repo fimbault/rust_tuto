@@ -22,7 +22,7 @@ To really learn rust, I suggest:
 In case you want to debug from vscode, please see this [gist](https://gist.github.com/fimbault/cc973b1d33b004c30fdfbeb36ff6ff34).
 
 ## and then what?
-Focus on what's specific to rust, or on frameworks or environments (ex: no_std) you'll use.
+Focus on more advanced topics or what's specific to rust, as well as frameworks or environments (ex: no_std) you'll use.
 * [lifetimes](https://www.youtube.com/watch?v=1QoT9fmPYr8): this video is a great introduction
 * [combining errors](https://richard.dallaway.com/2020/01/20/rust-error-chaining.html): often an issue when you're just trying to make things work
 * serde: for serialization/deserialization
