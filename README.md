@@ -9,7 +9,7 @@ Those examples correspond to what is most surprising to newcomers to rust.
 The main idea is that one needs to find ways around patterns such as:
 
 ```
-let a = assign variable
+let a = assign 
 function(a)
 reassign a or reuse a
 ```
