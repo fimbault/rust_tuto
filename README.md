@@ -17,4 +17,4 @@ reassign a or reuse a
 ## how to learn
 To really learn rust, I suggest:
 * [rustlings](https://github.com/rust-lang/rustlings) : the exercices are a great intro to the syntax. Don't hesitate to look at the rust book as soon as you need, but it's good to learn by trying. To use rustlings, clone the repository, run `rustling watch` in a command window, and start working on the first exercice with your favorite IDE (the name of the exercice is provided in the window)
-* [adventofcode](https://adventofcode.com/) is a good way to get into real problem solving.  
+* [adventofcode](https://adventofcode.com/) is a good way to get into real problem solving (and can work for any language). See [adventofcode-rs](https://github.com/fimbault/adventofcode-rs) for my solutions in rust. 
