@@ -28,3 +28,4 @@ Focus on what's specific to rust, or on frameworks or environments (ex: no_std) 
 * serde: for serialization/deserialization
 * async
 * web
+* wasm
