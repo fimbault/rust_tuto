@@ -29,3 +29,5 @@ Focus on more advanced topics or what's specific to rust, as well as frameworks 
 * async
 * web
 * wasm
+* ffi
+* embedded
